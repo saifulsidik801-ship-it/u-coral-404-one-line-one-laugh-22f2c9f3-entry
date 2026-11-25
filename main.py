@@ -1,3 +1,5 @@
+# One Line, One Laugh — one funny line, max 200 chars.
+# Writes the entry text to /output/entry.txt; judge scores the line alone.
 """One Line, One Laugh — entry program.
 
 Writes a single funny line (max 200 characters) to /output/entry.txt.
